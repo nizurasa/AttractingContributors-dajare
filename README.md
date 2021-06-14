@@ -27,3 +27,4 @@ Goal - I want contributors to help me list some favorite dajare.
 5. 電話に誰もテレフォン
 6. drag on dragon
 7. 家事の舵取り
+8. ギフト券貸したことで義父と喧嘩した
