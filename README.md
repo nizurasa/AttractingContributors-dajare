@@ -19,13 +19,14 @@ To complete the assignment, please do the following:
 Goal - I want contributors to help me list some favorite dajare.
 
 # List of dajare(Japanese or English)
-0. ふとんがふっとんだ
-1. アルミ缶の上にあるみかん
-2. アニソンショーで兄損傷
-3. 佐賀市にあるかないか、探しに歩かないか？
-4. 私たちから渡した力
-5. 電話に誰もテレフォン
-6. drag on dragon
-7. 家事の舵取り
-8. ギフト券貸したことで義父と喧嘩した
-9. 隠し事を各誌ごとに書く仕事
+00. ふとんがふっとんだ
+01. アルミ缶の上にあるみかん
+02. アニソンショーで兄損傷
+03. 佐賀市にあるかないか、探しに歩かないか？
+04. 私たちから渡した力
+05. 電話に誰もテレフォン
+06. drag on dragon
+07. 家事の舵取り
+08. ギフト券貸したことで義父と喧嘩した
+09. 隠し事を各誌ごとに書く仕事
+10. ウクライナ人だっていうくらい馴染んだって
