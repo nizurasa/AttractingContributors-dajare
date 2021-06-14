@@ -30,3 +30,4 @@ Goal - I want contributors to help me list some favorite dajare.
 08. ギフト券貸したことで義父と喧嘩した
 09. 隠し事を各誌ごとに書く仕事
 10. ウクライナ人だっていうくらい馴染んだって
+11. こっから近いし、国家拉致開始
