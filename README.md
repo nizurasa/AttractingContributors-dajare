@@ -28,3 +28,4 @@ Goal - I want contributors to help me list some favorite dajare.
 6. drag on dragon
 7. 家事の舵取り
 8. ギフト券貸したことで義父と喧嘩した
+9. 隠し事を各誌ごとに書く仕事
